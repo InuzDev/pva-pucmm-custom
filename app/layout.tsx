@@ -19,9 +19,9 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Aula PUCMM — Plataforma Virtual",
+  title: "Custom - Virtual Learning Platform PUCMM",
   description:
-    "Plataforma virtual de aprendizaje rediseñada para estudiantes de PUCMM. Calificaciones, tareas, calendario y pendientes en un solo lugar.",
+    "A thing I did because I got tired of the bad design of the normal platform",
 };
 
 export const viewport: Viewport = {
